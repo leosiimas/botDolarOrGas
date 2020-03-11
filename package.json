@@ -1,0 +1,11 @@
+{
+  "name": "dolarOrGas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leonardo Abreu <leonardo.abreu@inf.ufrgs.br>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "puppeteer": "^2.1.1"
+  }
+}
