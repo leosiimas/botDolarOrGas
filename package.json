@@ -5,7 +5,7 @@
   "author": "Leonardo Abreu <leonardo.abreu@inf.ufrgs.br>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "puppeteer": "^2.1.1"
   }
 }
